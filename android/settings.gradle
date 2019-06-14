@@ -1,0 +1,3 @@
+rootProject.name = 'ruby_dahlias_4672'
+
+include ':app'
